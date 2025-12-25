@@ -11,4 +11,4 @@ Secondly , This project is divided into 5 different parts so as to  understand t
               2) Making the dataframe of country region and medals (total , gold , silver , bronze)
               3) Presenting this in the streamlit and with some specifications and the first interface of our application
         In the Third Part:
-              2) This is the second interface of our application where we show 
+              2) This is the second interface of our application where we show  
