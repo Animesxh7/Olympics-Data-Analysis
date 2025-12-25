@@ -1,6 +1,6 @@
 # Olympics-Data-Analysis
 ## In this project firstly we have split the dataset athlete_events.csv into two , because of the size interruption of github .
-Secondly , This project is divided into 5 different parts so as to  understand the project properly.
+### Secondly , This project is divided into 5 different parts so as to  understand the project properly.
         In the First Part:
               1. Import the libraries required.
               2. Read the dataset.
